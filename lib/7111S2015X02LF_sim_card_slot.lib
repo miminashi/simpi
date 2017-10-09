@@ -1,0 +1,50 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# 7111S2015X02LF
+#
+DEF 7111S2015X02LF J 0 30 Y Y 1 F N
+F0 "J" 350 150 50 H V C CNN
+F1 "7111S2015X02LF" 350 -350 50 H V C CNN
+F2 "7111S2015X02LF" 350 -450 50 H I C CNN
+F3 "http://portal.fciconnect.com/Comergent//fci/drawing/vjw54355.pdf" 350 -550 50 H I C CNN
+F4 "Amphenol FCI Horizontal Surface Mount Memory & SIM Card Connector, with Solder Termination" 350 -650 50 H I C CNN "Description"
+F5 "RS" 350 -750 50 H I C CNN "Supplier_Name"
+F6 "7710221" 350 -850 50 H I C CNN "RS Part Number"
+F7 "AMPHENOL FCI" 350 -950 50 H I C CNN "Manufacturer_Name"
+F8 "7111S2015X02LF" 350 -1050 50 H I C CNN "Manufacturer_Part_Number"
+DRAW
+S 200 100 500 -300 0 0 10 f
+X 1 1 0 0 200 R 50 50 0 0 U
+X 2 2 0 -100 200 R 50 50 0 0 U
+X 3 3 0 -200 200 R 50 50 0 0 U
+X 5 4 700 0 200 L 50 50 0 0 U
+X 6 5 700 -100 200 L 50 50 0 0 U
+X 7 6 700 -200 200 L 50 50 0 0 U
+ENDDRAW
+ENDDEF
+#
+# 7111S2015X02LF_SIM_Card_Slot
+#
+DEF 7111S2015X02LF_SIM_Card_Slot J 0 30 Y Y 1 F N
+F0 "J" 0 300 50 H V C CNN
+F1 "7111S2015X02LF_SIM_Card_Slot" 0 -200 50 H V C CNN
+F2 "7111S2015X02LF" 0 -300 50 H I C CNN
+F3 "http://portal.fciconnect.com/Comergent//fci/drawing/vjw54355.pdf" 0 -400 50 H I C CNN
+F4 "Amphenol FCI Horizontal Surface Mount Memory & SIM Card Connector, with Solder Termination" 0 -500 50 H I C CNN "Description"
+F5 "RS" 0 -600 50 H I C CNN "Supplier_Name"
+F6 "7710221" 0 -700 50 H I C CNN "RS Part Number"
+F7 "AMPHENOL FCI" 0 -800 50 H I C CNN "Manufacturer_Name"
+F8 "7111S2015X02LF" 0 -900 50 H I C CNN "Manufacturer_Part_Number"
+DRAW
+S -300 250 300 -150 0 0 10 f
+X 1_Vcc 1 -500 150 200 R 50 50 0 0 W
+X 2_RST 2 -500 50 200 R 50 50 0 0 I
+X 3_CLK 3 -500 -50 200 R 50 50 0 0 I
+X 5_GND 4 500 150 200 L 50 50 0 0 W
+X 6_VPP 5 500 50 200 L 50 50 0 0 I
+X 7_I/O 6 500 -50 200 L 50 50 0 0 B
+ENDDRAW
+ENDDEF
+#
+#End Library

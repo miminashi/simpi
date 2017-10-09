@@ -1,0 +1,9 @@
+(fp_lib_table
+  (lib (name MMUN2133LT1G)(type KiCad)(uri "$(KIPRJMOD)/lib/MMUN2133LT1G.pretty")(options "")(descr ""))
+  (lib (name NanoPiNEO)(type KiCad)(uri "$(KIPRJMOD)/lib/NanoPiNEO.pretty")(options "")(descr ""))
+  (lib (name SIM7500A)(type KiCad)(uri "$(KIPRJMOD)/lib/SIM7500A.pretty")(options "")(descr ""))
+  (lib (name strawberry_linux_tps63070_module)(type KiCad)(uri "$(KIPRJMOD)/lib/strawberry_linux_tps63070_module.pretty")(options "")(descr ""))
+  (lib (name adafruit_2465_powerboost1000c)(type KiCad)(uri "$(KIPRJMOD)/lib/adafruit_2465_powerboost1000c.pretty")(options "")(descr ""))
+  (lib (name 7111S2015X02LF_sim_card_slot)(type KiCad)(uri "$(KIPRJMOD)/lib/7111S2015X02LF_sim_card_slot.pretty")(options "")(descr ""))
+  (lib (name mylib)(type KiCad)(uri "$(KIPRJMOD)/lib/mylib.pretty")(options "")(descr ""))
+)
