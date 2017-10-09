@@ -1,5 +1,7 @@
 # simpi
 
+![simpi](simpi.png)
+
 NanoPi NEO carry board with SIM7500 LTE module
 
 ## Parts List
