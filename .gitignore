@@ -1,6 +1,7 @@
 # For PCBs designed using KiCad: http://www.kicad-pcb.org/
 
 *.dcm
+simpi-cache.lib
 
 # Temporary files
 *.000
